@@ -4,9 +4,8 @@ Alone pt.II
 Anti-Hero
 Believer
 Butter
-<<<<<<< Updated upstream
+Updated upstream
 hello
-=======
 Friends forever
->>>>>>> Stashed changes
+Stashed changes
 These are my fav songs
